@@ -103,39 +103,42 @@ Já a função **'inverte_horizontal(imagem)'** recebe uma imagem como entrada e
 
 __Imagem original__
 
-<a href="https://imgur.com/Rz5EJKL"><img src="https://imgur.com/Rz5EJKL" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/Rz5EJKL.jpg"><img src="https://i.imgur.com/Rz5EJKL.jpg" title="source: imgur.com" /></a>
 
 __1. Processamento de Cores:  separação de canais R, G e B__
 
-<a href="https://imgur.com/r25fiZh"><img src="https://imgur.com/r25fiZh" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/fLre6CQ"><img src="https://imgur.com/fLre6CQ" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/r25fiZh.png"><img src="https://i.imgur.com/r25fiZh.png" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/uZmDhnj"><img src="https://imgur.com/uZmDhnj" title="source: imgur.com" /></a>
+
+<a href="https://i.imgur.com/fLre6CQ.png"><img src="https://i.imgur.com/fLre6CQ.png" title="source: imgur.com" /></a>
+
+
+<a href="https://i.imgur.com/uZmDhnj.png"><img src="https://i.imgur.com/uZmDhnj.png" title="source: imgur.com" /></a>
 
 __2. Conversão de colorido RGB para tons de cinza__
 
-<a href="https://imgur.com/aqjE3hs"><img src="https://imgur.com/aqjE3hs" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/aqjE3hs.jpg"><img src="https://i.imgur.com/aqjE3hs.jpg" title="source: imgur.com" /></a>
 
 __3. Conversão de tons de cinza para preto e branco (limiarização/binarização manual)__
 
-<a href="https://imgur.com/rXpgWYB"><img src="https://imgur.com/rXpgWYB" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/rXpgWYB.jpg"><img src="https://i.imgur.com/rXpgWYB.jpg" title="source: imgur.com" /></a>
 
 __4. Filtros da média__ 
 
-<a href="https://imgur.com/bcpx1RY"><img src="https://imgur.com/bcpx1RY" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/bcpx1RY.jpg"><img src="https://i.imgur.com/bcpx1RY.jpg" title="source: imgur.com" /></a>
 
 
 __5. Filtro da mediana__
 
-<a href="https://imgur.com/SRvWW6e"><img src="https://imgur.com/SRvWW6e" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/SRvWW6e.jpg"><img src="https://i.imgur.com/SRvWW6e.jpg" title="source: imgur.com" /></a>
 
 __6. Girar a imagem 90 graus__
 
-<a href="https://imgur.com/PpdUNvI"><img src="https://imgur.com/PpdUNvI" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/PpdUNvI.jpg"><img src="https://i.imgur.com/PpdUNvI.jpg" title="source: imgur.com" /></a>
 
 __7. Inverter a imagem (horizontal/vertical)__
 
-<a href="https://imgur.com/CyLbVJx"><img src="https://imgur.com/CyLbVJx" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/CyLbVJx.jpg"><img src="https://i.imgur.com/CyLbVJx.jpg" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/koJi5b0"><img src="https://imgur.com/koJi5b0" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/koJi5b0.jpg"><img src="https://i.imgur.com/koJi5b0.jpg" /></a>
