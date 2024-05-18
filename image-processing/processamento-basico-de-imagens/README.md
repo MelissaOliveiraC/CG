@@ -35,7 +35,7 @@ A função 'rgb_to_gray' aceita dois argumentos: caminho_imagem, que é o caminh
 
 A função 'converter_para_preto_e_branco' recebe dois argumentos: imagem, que é a imagem a ser convertida para preto e branco, e limiar, que é o valor utilizado para determinar se um pixel será preto ou branco. Dentro da função, a **imagem é convertida para tons de cinza** usando o método 'convert("L")'. Em seguida, **itera-se sobre cada pixel da imagem e, se o valor de intensidade do pixel for menor que o limiar especificado, o pixel é definido como preto (0); caso contrário, é definido como branco (255)**. A função retorna a imagem convertida para preto e branco.
 
-### **Filtros da média**
+### **Filtro da média**
 
 A função 'filtro_media' recebe dois argumentos: imagem, que é o caminho da imagem a ser filtrada, e **tamanho_janela, que é o tamanho da janela de vizinhança para aplicar o filtro de média**. A imagem é aberta usando 'Image.open(imagem)'. Uma nova imagem é criada com o mesmo tamanho da imagem original usando Image.new('RGB', (largura, altura)). Em seguida, o **filtro de média é aplicado a cada pixel da imagem original**, logo, para cada pixel, **obtém-se os pixels vizinhos** dentro da janela de tamanho especificado, **calcula-se a média dos valores de cada canal RGB** desses pixels vizinhos e define-se o valor do pixel na imagem filtrada como essa média. Finalmente, **a imagem filtrada** é salva no caminho de destino especificado.
 
