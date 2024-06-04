@@ -12,4 +12,4 @@
 
 ### Artigo 🔗
 
-- [Protocolo de processamento de imagens - Identificação de Placas em Veículos]()
+- [Protocolo de processamento de imagens - Identificação de Placas em Veículos](https://github.com/MelissaOliveiraC/CG/blob/main/number-plate-recognition/Artigo/Identifica%C3%A7%C3%A3o-de-placas-em-veiculos.pdf)
