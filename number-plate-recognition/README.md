@@ -28,7 +28,7 @@ Este projeto tem como objetivo desenvolver um sistema de detecção e reconhecim
 
 ### Artigo 🔗
 
-- [Protocolo de processamento de imagens - Identificação de Placas em Veículos](https://github.com/MelissaOliveiraC/CG/blob/main/number-plate-recognition/artigo/Identificacao-de-placas-em-veiculos.pdf)
+- [Protocolo de processamento de imagens - Identificação de Placas em Veículos](https://github.com/MelissaOliveiraC/CG/blob/main/number-plate-recognition/artigo/identificacao-de-placas-em-veiculos.pdf)
 
 ## Autores
 
