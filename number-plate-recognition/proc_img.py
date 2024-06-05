@@ -10,8 +10,10 @@ def converter_para_cinza(imagem):
 
 # Aplica filtros para remover ruídos.
 def aplicar_filtros(imagem_cinza):
-    imagem_filtrada = cv2.bilateralFilter(imagem_cinza, 9, 75, 75)
-    imagem_filtrada = cv2.GaussianBlur(imagem_filtrada, (5, 5), 0) # Aplicação de filtro Gaussiano (NÃO-APLICADO INICIALMENTE EM ALGUMAS IMAGENS)
+    imagem_filtrada = cv2.bilateralFilter(imagem_cinza, 9, 75, 75) # Suaviza a imagem enquanto preserva as bordas
+
+    # Aplicação de filtro Gaussiano (NÃO-APLICADO INICIALMENTE EM ALGUMAS IMAGENS)
+    imagem_filtrada = cv2.GaussianBlur(imagem_filtrada, (5, 5), 0) # Suaviza a imagem inteira mas borra as bordas
     return imagem_filtrada
 
 # Aplica limiarização adaptativa para destacar os caracteres.
