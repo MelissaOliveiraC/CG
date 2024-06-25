@@ -23,7 +23,7 @@ __DinoDash__ é um jogo simples de plataforma 2D __inspirado no clássico jogo d
 
 ### __Jogue Aqui__
 
-- [DinoDash - 2D](link)
+- [DinoDash - 2D](https://melissaoliveirac.github.io/CG/2d/dinodash-2d/)
 
 ### Autora
 
