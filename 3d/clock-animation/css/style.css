@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Silkscreen:wght@400;700&display=swap');
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background-image: url('/src/textures/background.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+canvas.webgl {
+  position: absolute; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#clock {
+  position: absolute;
+  top: 40px; 
+  left: 50%; 
+  transform: translateX(-50%); 
+  font-family: 'Black Ops One', sans-serif; 
+  font-size: 5em; 
+  background: linear-gradient(100deg, #FCAC19, #FA01FD, #3A0263); 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  padding: 13px 20px; 
+  border-radius: 50px; 
+  box-shadow: 0 4px 20px rgba(40, 39, 39, 0.377), 0 0 0 10px #4cabb57b;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.126); 
+  backdrop-filter: blur(3px);
+  z-index: 10; 
+  -webkit-text-stroke-width: 2.8px; 
+  -webkit-text-stroke-color: #4d195cae; 
+}
