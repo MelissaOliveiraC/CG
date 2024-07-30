@@ -15,6 +15,14 @@ __Objetivo:__ Desenvolver um jogo que se pareça com o ___Downasaur Game___ (Din
 
 __DinoDash__ é um jogo simples de plataforma 2D __inspirado no clássico jogo do dinossauro do Chrome__. O jogador controla um dinossauro que deve pular sobre cactos para evitar colisões e acumular pontos. O jogo apresenta gráficos simples e uma mecânica intuitiva de controle por teclado.DinoDash é um jogo simples de plataforma 2D inspirado no clássico jogo do dinossauro do Chrome. O jogador controla um dinossauro que deve pular sobre cactos para evitar colisões e acumular pontos. O jogo apresenta gráficos simples e uma mecânica intuitiva de controle por teclado.
 
+### Screenshot
+
+<a href="https://i.imgur.com/Tl6CoHR.png"><img src="https://i.imgur.com/Tl6CoHR.png" title="source: imgur.com" /></a>
+
+________________________________________________________________________________________________________________________
+
+<a href="https://i.imgur.com/8a2kGcL.png"><img src="https://i.imgur.com/8a2kGcL.png" title="source: imgur.com" /></a>
+
 ### Recursos Principais 
 
 - __Controles Simples:__ Use a barra de espaço para fazer o dinossauro pular.
@@ -23,7 +31,7 @@ __DinoDash__ é um jogo simples de plataforma 2D __inspirado no clássico jogo d
 
 ### __Jogue Aqui__
 
-- [DinoDash - 2D](link)
+- [DinoDash - 2D](https://melissaoliveirac.github.io/CG/2d/dinodash-2d/)
 
 ### Autora
 
