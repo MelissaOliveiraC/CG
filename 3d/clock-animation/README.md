@@ -21,7 +21,7 @@ __Objetivo:__ Criar uma animação utilizando WebGL e a biblioteca Three.js que 
 
 Este projeto é uma animação interativa em 3D desenvolvida utilizando a biblioteca Three.js, onde três formas geométricas giram em um ambiente 3D, acompanhadas de um fundo dinâmico e um relógio digital.
 
-- [Demo](https://github.com/MelissaOliveiraC)
+- [Demo](https://melissaoliveirac.github.io/CG/3d/clock-animation/)
 
 ## Funcionalidades
 
